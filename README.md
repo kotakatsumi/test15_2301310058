@@ -11,10 +11,10 @@
 8. npm install axios
 
 ### 表示方法
-myappディレクトリ上で下記のコマンドを実行　　
-node index.js
-clientディレクトリ上で下記のコマンドを実行　　
-npm run serve
+myappディレクトリ上で下記のコマンドを実行  
+node index.js  
+clientディレクトリ上で下記のコマンドを実行  
+npm run serve  
 
 ### 接続環境
 http://localhost:8080
